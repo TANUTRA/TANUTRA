@@ -8,7 +8,9 @@ I am finishing up my degree at JIS college of Engineering, where I have learned 
 
 If you are interested in contacting me in regards to a position with your company, please email me at redninjatanu@gmail.com, or feel free to connect with me on LinkedIn.
 
-Skills: C/C++/JAVA/Python/Kotlin
+<div align="center">
+  <h2>Skills: C / C++ / JAVA / Python / Kotlin</h2>
+</div>
 
 - 🔭 I’m currently working on My Career 
 - 🌱 I’m currently learning A lot of things 
@@ -19,35 +21,36 @@ Skills: C/C++/JAVA/Python/Kotlin
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I can create music anywhere 
 
-<br><br>
-
-<a href="https://github.com/TANUTRA" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="60">
-</a>
-<a href="https://www.linkedin.com/in/tanutra-jana-1ba625213/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="60">
-</a>
-<a href="https://www.facebook.com/tanutra.jana.7/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="60">
-</a>
-<a href="https://www.instagram.com/its_teee_jay/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="60">
-</a>
-<a href="https://twitter.com/PLATINUMTJ_2K02/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="60">
-</a>
-<a href="https://www.youtube.com/channel/UCvTxpoYYj74wtHiyO0Dn7vA/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="60">
-</a>
-<a href="https://www.bandlab.com/tj2002platinum/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bandlab.svg" alt="Bandlab" height="60">
-</a>
-
-<br><br>
+<br>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tanutra)
 
+
+<br><br>
+<div align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=tanutra" height="60"></div>
+
 <br><br>
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=tanutra" height="60">  
+  <a href="https://github.com/TANUTRA" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="60">
+  </a>
+  <a href="https://www.linkedin.com/in/tanutra-jana-1ba625213/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="60">
+  </a>
+  <a href="https://www.facebook.com/tanutra.jana.7/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="60">
+  </a>
+  <a href="https://www.instagram.com/its_teee_jay/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="60">
+  </a>
+  <a href="https://twitter.com/PLATINUMTJ_2K02/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="60">
+  </a>
+  <a href="https://www.youtube.com/channel/UCvTxpoYYj74wtHiyO0Dn7vA/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="60">
+  </a>
+  <a href="https://www.bandlab.com/tj2002platinum/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bandlab.svg" alt="Bandlab" height="60">
+  </a>
 </div>
+
