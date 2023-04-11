@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Tanutra Jana (TJ)
-### A tech enthusiast || ECE undergrad || Msic Lover || Moody, Foodie and a hell lotta choosy
-![A tech enthusiast || ECE undergrad || Msic Lover || Moody, Foodie and a hell lotta choosy](https://media.licdn.com/dms/image/C4E16AQGujxq-mgrcXA/profile-displaybackgroundimage-shrink_350_1400/0/1622288348029?e=1684368000&v=beta&t=PPMA0tJVTyuIU3dAwNzBoDQDP7ELhVShG_nqTpEZmWc)
+### A tech enthusiast || ECE undergrad || Music Lover || Moody, Foodie and hell lotta Choosy
+![A tech enthusiast || ECE undergrad || Music Lover || Moody, Foodie and a hell lotta Choosy](https://media.licdn.com/dms/image/C4E16AQGujxq-mgrcXA/profile-displaybackgroundimage-shrink_350_1400/0/1622288348029?e=1684368000&v=beta&t=PPMA0tJVTyuIU3dAwNzBoDQDP7ELhVShG_nqTpEZmWc)
 
 Finding creative solutions to problems is something I have always enjoyed. As a kid I loved tinkering with things that were broken, figuring out how they worked, and fixing them again. When I finished high school, I knew exactly what I wanted my career to be.
 
@@ -21,13 +21,13 @@ If you are interested in contacting me in regards to a position with your compan
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I can create music anywhere 
 
-<br>
-
+<div align="center">
+  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tanutra)
 
+</div>
 
-<br><br>
-<div align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=tanutra" height="60"></div>
+<div align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=tanutra" height="40"></div>
 
 <br><br>
 <div align="center">
