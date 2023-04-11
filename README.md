@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Tanutra Jana (TJ)
+# Hi there 👋, my name is Tanutra Jana (TJ)
 ### A tech enthusiast || ECE undergrad || Msic Lover || Moody, Foodie and a hell lotta choosy
 ![A tech enthusiast || ECE undergrad || Msic Lover || Moody, Foodie and a hell lotta choosy](https://media.licdn.com/dms/image/C4E16AQGujxq-mgrcXA/profile-displaybackgroundimage-shrink_350_1400/0/1622288348029?e=1684368000&v=beta&t=PPMA0tJVTyuIU3dAwNzBoDQDP7ELhVShG_nqTpEZmWc)
 
@@ -45,4 +45,4 @@ Skills: C/C++/JAVA/Python/Kotlin
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tanutra)<br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=tanutra">  
+<img src="https://visitor-badge.laobi.icu/badge?page_id=tanutra" height="60">  
