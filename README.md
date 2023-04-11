@@ -21,31 +21,25 @@ Skills: C/C++/JAVA/Python/Kotlin
 
 
 <a href="https://github.com/TANUTRA" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="60">
 </a>
 <a href="https://www.linkedin.com/in/tanutra-jana-1ba625213/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-    alt="LinkedIn" height="40">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="60">
 </a>
 <a href="https://www.facebook.com/tanutra.jana.7/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
-    alt="Facebook" height="40">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="60">
 </a>
 <a href="https://www.instagram.com/its_teee_jay/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
-    alt="Instagram" height="40">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="60">
 </a>
 <a href="https://twitter.com/PLATINUMTJ_2K02/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
-    alt="Twitter" height="40">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="60">
 </a>
-<a href="https://www.youtube.com/channel/myself_tj/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg"
-    alt="YouTube" height="40">
+<a href="https://www.youtube.com/channel/UCvTxpoYYj74wtHiyO0Dn7vA/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="60">
 </a>
 <a href="https://www.bandlab.com/tj2002platinum/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bandlab.svg"
-    alt="Bandlab" height="40">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bandlab.svg" alt="Bandlab" height="60">
 </a>
 
 
