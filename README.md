@@ -19,6 +19,7 @@ Skills: C/C++/JAVA/Python/Kotlin
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I can create music anywhere 
 
+<br><br>
 
 <a href="https://github.com/TANUTRA" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="60">
@@ -42,7 +43,10 @@ Skills: C/C++/JAVA/Python/Kotlin
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bandlab.svg" alt="Bandlab" height="60">
 </a>
 
+<br><br>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tanutra)<br/>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tanutra)
+
+<br><br>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=tanutra" height="60">  
