@@ -48,5 +48,6 @@ Skills: C/C++/JAVA/Python/Kotlin
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tanutra)
 
 <br><br>
-
+<div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=tanutra" height="60">  
+</div>
