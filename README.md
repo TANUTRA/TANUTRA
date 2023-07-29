@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Tanutra Jana (TJ)
 ### A tech enthusiast || ECE undergrad || Music Lover || Moody, Foodie and hell lotta Choosy
-![A tech enthusiast || ECE undergrad || Music Lover || Moody, Foodie and a hell lotta Choosy](https://media.licdn.com/dms/image/C4E16AQGujxq-mgrcXA/profile-displaybackgroundimage-shrink_350_1400/0/1622288348029?e=1684368000&v=beta&t=PPMA0tJVTyuIU3dAwNzBoDQDP7ELhVShG_nqTpEZmWc)
+![A tech enthusiast || ECE undergrad || Music Lover || Moody, Foodie and a hell lotta Choosy](https://media.licdn.com/dms/image/C4E16AQGujxq-mgrcXA/profile-displaybackgroundimage-shrink_350_1400/0/1622288348029?e=1695859200&v=beta&t=ySXyMVMO9Wiu1C5YF-CUvwmwpV9OX6IbTUxXijKmtag)
 
 Finding creative solutions to problems is something I have always enjoyed. As a kid I loved tinkering with things that were broken, figuring out how they worked, and fixing them again. When I finished high school, I knew exactly what I wanted my career to be.
 
