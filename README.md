@@ -22,14 +22,17 @@ If you are interested in contacting me in regards to a position with your compan
 - ⚡ Fun fact: I can create music anywhere 
 
 <div align="center">
-  
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tanutra)
-
+  <div style="display: flex; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=tanutra" alt="My GitHub stats">
+    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64c521b48bda28d99142308d?variant=dark" alt="roadmap.sh"></a>
+  </div>
+  <br>
+  <div>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=tanutra" height="40" alt="Visitor Badge">
+  </div>
 </div>
 
-<div align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=tanutra" height="40"></div>
-
-<br><br>
+<br>
 <div align="center">
   <a href="https://github.com/TANUTRA" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="60">
